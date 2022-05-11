@@ -1,6 +1,6 @@
 # copyright-adder
 
-Simple tool to add the copyrights to all the files in a directory. 
+Simple tool to add the copyrights/license notice to all the files in a directory. 
 
 # Usage
 
